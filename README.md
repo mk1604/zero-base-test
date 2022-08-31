@@ -11,8 +11,7 @@
 본 프로젝트를 통해 모든 유저들은 자유롭게 게시판에서 글을 작성할 수 있다. 
 
 ### 프로젝트 구조
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0eb7af46-ebdd-4b32-82a2-3489cce56b75/Untitled.png)
+![1](https://user-images.githubusercontent.com/69148373/187628919-c0fd8e00-621a-44fe-88f7-6503b9d855a6.png)
 
 ### 프로젝트의 기능
 
